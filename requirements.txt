@@ -1,0 +1,5 @@
+numpy
+pandas
+matplotlib
+seaborn
+tensorflow_cpu==2.18.0

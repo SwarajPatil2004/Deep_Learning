@@ -3,3 +3,6 @@ pandas
 matplotlib
 seaborn
 tensorflow_cpu==2.18.0
+pillow==11.1.0
+transformers=4.38.2
+torch

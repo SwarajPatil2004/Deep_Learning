@@ -6,4 +6,6 @@ tensorflow_cpu==2.18.0
 tensorflow==2.16.2
 pillow==11.1.0
 transformers==4.38.2
+pydot
+graphviz
 torch
